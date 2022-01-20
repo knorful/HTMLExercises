@@ -1,0 +1,29 @@
+section {
+    margin-top: 50px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+a {
+    cursor: pointer;
+}
+
+.hr-seperator {
+    margin-bottom: 40px;
+}
+
+.hr-spacing hr {
+    margin-top: -5px;
+}
+
+
+#title {
+    text-align: center;
+}
+
+#selfie {
+    width: 200px;
+}
